@@ -1,0 +1,1 @@
+java数据变成js里json格式的数据，再通过js的eval转为jsjson对象
