@@ -3,8 +3,8 @@
 
 
 <br>
-![github](https://github.com/sunday123/article_crud/raw/master/前后端通过ajax传输/resultImage/1.png) 
-    
-<br>
-![github](https://github.com/sunday123/article_crud/raw/master/前后端通过ajax传输/resultImage/2.png) 
-    
+
+
+![](https://github.com/sunday123/article_crud/raw/master/前后端通过ajax传输/resultImage/1.png)
+
+![](https://github.com/sunday123/article_crud/raw/master/前后端通过ajax传输/resultImage/2.png)
